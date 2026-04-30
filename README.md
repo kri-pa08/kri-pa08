@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kripa</h1>
-<h3 align="center">Software Engineering Student 💻 | Future Full Stack Developer 🚀</h3>
+<h3 align="center">Software Engineering Student 💻 | Full Stack Developer </h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Software Engineering Student  
-- 🌱 Currently learning: React & Backend Development  
-- 💡 Passionate about building web applications  
-- 🎯 Goal: Crack top tech placements  
+- Software Engineering Student  
+- Currently learning: React & Backend Development  
+- Passionate about building web applications  
+- Goal: Crack top tech placements  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kri-pa08&show_icons=true&theme=radical" />
