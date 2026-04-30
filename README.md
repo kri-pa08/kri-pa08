@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - Software Engineering Student  
-- Currently learning: React & Backend Development  
+- Currently learning: Data Structures and Algorithm 
 - Passionate about building web applications  
 - Goal: Crack top tech placements  
 
