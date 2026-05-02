@@ -9,7 +9,7 @@
 - Passionate about building web applications  
 - Goal: Crack top tech placements  
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;React+Learner;Building+Projects ; Learning+DSA">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;React+Learner;Building+Projects ;Learning+DSA">
 ---
 
 ### Tech Stack
