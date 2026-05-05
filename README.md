@@ -3,7 +3,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me 
 - Software Engineering Student  
 - Currently learning: Data Structures and Algorithm 
 - Passionate about building web applications  
