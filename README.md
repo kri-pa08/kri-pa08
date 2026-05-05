@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;React+Learner;Building+Projects">
 ---
 
-### Tech 
+### Tech Stack
 
 <p align="center">
   
