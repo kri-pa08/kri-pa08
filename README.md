@@ -18,7 +18,7 @@ public class Kripa {
     String[] learning  = {"Data Structures", "Algorithms", "System Design"};
     String[] building  = {"Full Stack Web Apps", "Cool Projects"};
     String goal        = "Crack top tech placements 🚀";
-    String funFact     = "I turn ideas into code and coffee into energy ☕";
+
 }
 ```
 
