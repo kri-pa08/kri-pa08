@@ -125,7 +125,7 @@ public class Kripa {
 
 <div align="center">
 
-###  2025 Goals
+###  2026 Goals
 
 - [x] Build Full Stack projects
 - [x] Learn React
